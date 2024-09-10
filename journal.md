@@ -5,3 +5,4 @@ What could I have done differently in drafting or explaining the instructions? W
 # September 05, 2024
 
 What could I have done differently in drafting or explaining the instructions? Were there any parts that were unclear or confusing?
+i could've explained it simpler term so more people would understand
