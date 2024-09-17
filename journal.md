@@ -1,3 +1,7 @@
+# September 16, 2024
+
+Write the following as your journal entry: This is a free week.
+
 # September 10, 2024
 
 What could I have done differently in drafting or explaining the instructions? Were there any parts that were unclear or confusing?
