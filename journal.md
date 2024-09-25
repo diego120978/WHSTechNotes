@@ -1,3 +1,9 @@
+# September 24, 2024
+Everyone should have their individual python assignments. Please continue with your individual assignment.
+
+
+
+
 # September 16, 2024
 
 Write the following as your journal entry: This is a free week.
