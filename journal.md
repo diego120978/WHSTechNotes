@@ -1,3 +1,13 @@
+# September 30, 2024
+Think about your daily routine and activities. Identify one task or process where computer science plays a role, either directly or indirectly. Write a paragraph describing how computer science is used and how it impacts your life. Consider things like apps you use, websites you visit, or even the technology behind devices you rely on. How would your day be different without this use of computer science?
+No smartphones or apps to help with communication or navigation.
+No online shopping or banking, so people would do everything in person.
+Information would be stored on paper, making research slower.
+Entertainment like video games and streaming would not exist.
+
+
+
+
 # September 24, 2024
 Everyone should have their individual python assignments. Please continue with your individual assignment.
 
