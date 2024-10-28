@@ -1,3 +1,12 @@
+# October 28, 2024
+
+With the upcoming election, technology plays a huge role in various aspects, from voting machines to social media. How do you think computer science and technology impact the election process? Discuss one positive impact and one potential challenge or concern. Be sure to provide specific examples of how programming, security, or technology influences elections today.
+Positive: Online tools make it easier for people to register to vote and for officials to manage voting smoothly.
+Challenge: Security risks, like hacking, can threaten voting systems. Keeping these systems safe is essential but can be difficult.
+
+
+
+
 # October 21, 2024
 It has helped in diverse fields, including healthcare, education, and transportation, with early detection of disease, personalized assistance, and even route optimization. However, it will also lead to loss of jobs, biased hiring decisions, and may be vulnerable to hacking that may further compromise personal information. Careful handling of AI shall be required to evade these possible pitfalls and enrich the manner in which we work and live.
 
