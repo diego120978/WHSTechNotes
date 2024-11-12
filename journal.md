@@ -1,3 +1,18 @@
+# November 12, 2024
+
+## Journal Entry
+
+Choose a current event that interests you or impacts your community.
+
+- In a paragraph, briefly summarize the event and explain how it relates to any of the concepts we’ve been learning in class (e.g., problem-solving, technology, or data analysis).
+
+- In a second paragraph, reflect on how advancements in computer science or technology could play a role in addressing this event or similar issues in the future.
+Starting with the influence of many people, big events are about to occur in the 2024 U.S. Presidential Election. Issues relating to the economy, healthcare, and security come to the fore. Technology makes a great difference in how campaigns implement data to target voters and track opinions, ensuring that the voting system is secure and accurate.
+
+Future technologies, including AI and blockchain, can further secure the efficiency of future elections. AI enables campaigns to more effectively reach out to voters; blockchain enables safer voting, preventing fraud. This can provide even fairer and more transparent elections.
+
+
+
 # November 4, 2024
 
 In today’s digital world, sharing and publishing content online is more common than ever. Whether you’re contributing to a project, posting on social media, or submitting work for class, it’s important to think about the kinds of information you’re sharing and how it can be used.
