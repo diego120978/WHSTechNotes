@@ -1,3 +1,15 @@
+# December 2, 2024
+
+## Journal Entry
+I learned about recent advancements in AI, like OpenAI's GPT-4.5, which can create human-like text and help in areas like education, healthcare, and creative work. It’s exciting because it can save time and make tasks easier. However, I’m worried about job losses and spreading false information.
+
+In my field, AI could make HVAC systems smarter by predicting maintenance and saving energy. We’ll need to address issues like data privacy and misuse to ensure AI is used responsibly.
+
+# November 18, 2024
+
+## Journal Entry
+Technology has changed how we grow and buy food, making it cheaper and easier to get, especially during the holidays. Tools like farm machines and delivery apps help farmers and shoppers save time and money. For example, apps like Instacart let people order groceries from home. However, relying too much on technology can cause problems like delivery delays or harm to the environment.
+
 # November 12, 2024
 
 ## Journal Entry
