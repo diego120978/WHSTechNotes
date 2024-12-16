@@ -1,3 +1,17 @@
+# December 16, 2024
+
+### 1. Journal Entry
+Yes, I’m looking forward to catching up on sleep and finally relaxing without worrying about assignments.
+
+# December 9, 2024
+
+### Journal Entry
+"Brain rot" describes how shallow digital content can leech focus and energy. Where technology helps me learn and connect, it also diverts me, especially with "slop"—low-quality content. On the other hand, "lore" shows how creativity and storytelling thrive online. To avoid "brain rot", I set limits on screen time, focus on useful content, and make time for offline studying and activities.
+
+
+
+
+
 # December 2, 2024
 
 ## Journal Entry
