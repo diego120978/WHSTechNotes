@@ -1,6 +1,19 @@
+
+# January 8, 2025
+
+### Journal Entry
+ 1. Reflection: I liked the interactive activities and hands-on projects the most. Maybe for future classes, the instructor could incorporate more real-life examples or applications.
+2. Future Direction: Advanced topics or collaborative projects are what interest me. It would be cool to know the current industry trends.
+3. Certification: Yes, I would like Python-like certifications. For those courses, it would be nice if study
+
+
+
+
+
+
 # December 16, 2024
 
-### 1. Journal Entry
+### Journal Entry
 Yes, I’m looking forward to catching up on sleep and finally relaxing without worrying about assignments.
 
 # December 9, 2024
