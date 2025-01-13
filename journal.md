@@ -1,3 +1,11 @@
+# January 13, 2025
+
+### Journal Entry
+
+The tech industry’s focus on AI skills shows how important AI has become for the future of work. AI can create new opportunities by making tasks more efficient and boosting creativity, but it might limit options for people without access to AI training. To succeed in this changing market, it’s important to stay adaptable, learn AI basics, and develop skills that work alongside technology.
+
+
+
 
 # January 8, 2025
 
