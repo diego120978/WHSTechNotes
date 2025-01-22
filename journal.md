@@ -1,3 +1,15 @@
+# January 22, 2025
+
+### Journal Entry
+1. Impacts: Increases regulation and restricts access.
+2. Addressing Concerns: Use local servers and be transparent.
+3. Feature: Add end-to-end encryption.
+4. Lessons: Prioritize privacy and transparency.
+
+
+
+
+
 # January 13, 2025
 
 ### Journal Entry
