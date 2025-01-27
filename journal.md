@@ -1,26 +1,12 @@
 # January 27, 2025
 
 ### Journal Entry
-# Define the apprentices, cars, and mistakes
-apprentices = ["Bart", "Kayla", "Jimmy", "Harrison"]
-cars = ["Honda Civic", "Sierra", "Camry", "Forester"]
-mistakes = ["Drilled hole", "Left stains", "Left oil cap off", "No mistake"]
-
-# Create a dictionary to store the results
-assignments = {
-    "Bart": {"Car": "Honda Civic", "Mistake": "Drilled hole"},
-    "Kayla": {"Car": "Sierra", "Mistake": "Left stains"},
-    "Jimmy": {"Car": "Camry", "Mistake": "Left oil cap off"},
-    "Harrison": {"Car": "Forester", "Mistake": "No mistake"}
-}
-
-# Print the results as a Markdown table
-print("| Apprentice  | Car           | Mistake              |")
-print("|-------------|---------------|----------------------|")
-for apprentice in apprentices:
-    car = assignments[apprentice]["Car"]
-    mistake = assignments[apprentice]["Mistake"]
-    print(f"| {apprentice:<11} | {car:<13} | {mistake:<20} |")
+  | Name     | Car | Mistake |
+    | :------- | :-- | :------ |
+    | Jimmy    |Left oil cap off |Camry       |
+    | Kayla    |Left stains      |Sierra      |
+    | Bart     |Drilled hole     | Honda Civic|
+    | Harrison | no mistake      |Forester    |
 
 
 
