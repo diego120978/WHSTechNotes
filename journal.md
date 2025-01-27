@@ -2,7 +2,7 @@
 
 ### Journal Entry
   | Name     | Car | Mistake |
-    | :------- | :-- | :------ |
+    | :------- | :-------------- | :--------- |
     | Jimmy    |Left oil cap off |Camry       |
     | Kayla    |Left stains      |Sierra      |
     | Bart     |Drilled hole     | Honda Civic|
