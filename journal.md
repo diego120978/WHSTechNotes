@@ -1,3 +1,17 @@
+# January 27, 2025
+
+### Journal Entry
+Bart: Drilled hole, Honda Civic
+
+Kayla: Left stains, Sierra
+
+Jimmy: Left oil cap off, Camry
+
+Harrison: Forester, no mistake
+
+
+
+
 # January 22, 2025
 
 ### Journal Entry
