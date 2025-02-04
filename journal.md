@@ -1,3 +1,13 @@
+
+# February 3, 2025
+
+### 1. Journal 
+Technology helps keep aviation safe with things like air traffic control systems and autopilot. Computer systems keep planes at safe distances and send alerts to pilots if there’s danger. However, software errors or mistakes in the system can lead to accidents.
+
+Human-computer interaction (HCI) makes sure pilots and controllers can understand the information they get. If systems are unclear, warnings might be missed. Cybersecurity is also important to stop hacking or attacks on aviation systems. Machine learning could predict problems before they happen, helping to prevent accidents.
+
+
+
 # January 27, 2025
 
 ### Journal Entry
