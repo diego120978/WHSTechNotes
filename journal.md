@@ -1,3 +1,10 @@
+# February 11, 2025
+### 1. Journal - Student's Choice
+My app would help coaches make smarter in-game decisions by analyzing real-time data. It would track player performance, opponent tendencies, and game conditions, then suggest the best plays based on that info. A live dashboard would show heat maps, key stats, and alerts for important moments—like spotting a weak defender or predicting an opponent’s next move. Coaches could also look at past matchups to see what worked before and adjust their strategy on the fly.
+
+To keep everything running smoothly, the app would use databases to store player stats, lists to track live plays, and dictionaries for quick lookups. Machine learning would help recognize patterns, predict plays, and recommend strategies. Sorting and searching algorithms would make it easy to pull up the right data in seconds. The dashboard would have clear visuals—bar charts comparing players, line graphs showing trends, and interactive field diagrams—so coaches can quickly understand what’s happening and make the best calls.
+
+
 
 # February 3, 2025
 
