@@ -1,3 +1,11 @@
+# February 18, 2025
+
+### 1. Journal Prompt
+
+What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.
+Last week, the most fascinating thing I learned was about the "theory of the biosphere" from a documentary on the life of James Lovelock. It explained how the Earth acts like a self-regulating organism, with its atmosphere and ecosystems working together to maintain conditions suitable for life, almost like a giant living entity.
+
+
 # February 11, 2025
 ### 1. Journal - Student's Choice
 My app would help coaches make smarter in-game decisions by analyzing real-time data. It would track player performance, opponent tendencies, and game conditions, then suggest the best plays based on that info. A live dashboard would show heat maps, key stats, and alerts for important moments—like spotting a weak defender or predicting an opponent’s next move. Coaches could also look at past matchups to see what worked before and adjust their strategy on the fly.
