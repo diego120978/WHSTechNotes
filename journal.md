@@ -1,13 +1,19 @@
+# February 24, 2025
+### Journal Entry
+Technology can help teachers and counselors keep up with youth slang by using AI tools, social media, and online dictionaries. AI chatbots and apps could update slang lists in real time, helping adults understand new words without needing to search for them. Social media platforms like TikTok and Twitter are also great places to see how slang is used in everyday conversations. This way, adults can stay informed and avoid confusion when talking to students.
+
+Adding slang translation tools to educational apps or chatbots could make communication smoother, but it also has challenges. Some slang changes quickly or has different meanings in different groups, so it might be hard to keep everything accurate. Schools could track common slang to help teachers connect with students, but making it a formal lesson might feel forced. If adults misunderstand slang, it could lead to miscommunication or students feeling judged. Using technology wisely can help bridge the gap while keeping conversations respectful and natural.
+
 # February 18, 2025
 
-### 1. Journal Prompt
+### Journal Entry
 
 What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.
 Last week, the most fascinating thing I learned was about the "theory of the biosphere" from a documentary on the life of James Lovelock. It explained how the Earth acts like a self-regulating organism, with its atmosphere and ecosystems working together to maintain conditions suitable for life, almost like a giant living entity.
 
 
 # February 11, 2025
-### 1. Journal - Student's Choice
+### Journal Entry
 My app would help coaches make smarter in-game decisions by analyzing real-time data. It would track player performance, opponent tendencies, and game conditions, then suggest the best plays based on that info. A live dashboard would show heat maps, key stats, and alerts for important moments—like spotting a weak defender or predicting an opponent’s next move. Coaches could also look at past matchups to see what worked before and adjust their strategy on the fly.
 
 To keep everything running smoothly, the app would use databases to store player stats, lists to track live plays, and dictionaries for quick lookups. Machine learning would help recognize patterns, predict plays, and recommend strategies. Sorting and searching algorithms would make it easy to pull up the right data in seconds. The dashboard would have clear visuals—bar charts comparing players, line graphs showing trends, and interactive field diagrams—so coaches can quickly understand what’s happening and make the best calls.
@@ -16,7 +22,7 @@ To keep everything running smoothly, the app would use databases to store player
 
 # February 3, 2025
 
-### 1. Journal 
+### Journal Entry
 Technology helps keep aviation safe with things like air traffic control systems and autopilot. Computer systems keep planes at safe distances and send alerts to pilots if there’s danger. However, software errors or mistakes in the system can lead to accidents.
 
 Human-computer interaction (HCI) makes sure pilots and controllers can understand the information they get. If systems are unclear, warnings might be missed. Cybersecurity is also important to stop hacking or attacks on aviation systems. Machine learning could predict problems before they happen, helping to prevent accidents.
