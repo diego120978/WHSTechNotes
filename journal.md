@@ -1,3 +1,11 @@
+# March 3, 2025
+### Journal Prompt
+Last Friday, our class was not as respectful and cooperative as we should have been with the substitute teacher. Many of us were distracted, talking during lessons, and not following instructions the way we normally would. It made the substitute’s job more difficult because they had to repeat themselves multiple times, and it probably made them feel disrespected or frustrated. I think by the end of the day, the substitute was likely exhausted and disappointed with how the class behaved, as we didn’t make an effort to engage with the lesson or help keep things on track.
+
+If I could go back, I would definitely try to be more focused and respectful. I would encourage my classmates to follow the instructions and be mindful of how the substitute might be feeling. Moving forward, I want to make sure that any substitute who comes into our classroom feels supported. I can personally do this by being more attentive, offering help when needed, and encouraging others to do the same. If we all put in the effort, it can make a huge difference in creating a positive environment for everyone, including the substitute.
+
+
+
 # February 24, 2025
 ### Journal Entry
 Technology can help teachers and counselors keep up with youth slang by using AI tools, social media, and online dictionaries. AI chatbots and apps could update slang lists in real time, helping adults understand new words without needing to search for them. Social media platforms like TikTok and Twitter are also great places to see how slang is used in everyday conversations. This way, adults can stay informed and avoid confusion when talking to students.
