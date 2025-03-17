@@ -1,3 +1,10 @@
+# March 17, 2025
+### Journal Prompt
+Over spring break, I used technology mostly for entertainment and communication. I spent a lot of time on my phone, using social media apps to stay in touch with friends and see what everyone was up to. I also played video games, both online and offline, which helped me relax and have fun. Streaming services were another big part of my break—I watched shows and videos to pass the time. Technology made it easy to stay connected and entertained without having to go anywhere.
+
+Some of the technology I used relates to what we learn in class. For example, video games involve coding and problem-solving, which are key skills in programming. Many of the apps I used rely on algorithms and user interfaces designed for smooth functionality, which connects to app development concepts. Even social media platforms use coding to make sure posts, messages, and recommendations work properly. Using technology over break made me think more about how these systems are created and how coding plays a big role in making them work.
+
+
 # March 3, 2025
 ### Journal Prompt
 Last Friday, our class was not as respectful and cooperative as we should have been with the substitute teacher. Many of us were distracted, talking during lessons, and not following instructions the way we normally would. It made the substitute’s job more difficult because they had to repeat themselves multiple times, and it probably made them feel disrespected or frustrated. I think by the end of the day, the substitute was likely exhausted and disappointed with how the class behaved, as we didn’t make an effort to engage with the lesson or help keep things on track.
