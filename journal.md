@@ -1,3 +1,10 @@
+# March 34, 2025
+### Journal Prompt
+The integration of advanced technologies into March Madness has significantly altered how fans experience the tournament. AI-driven predictions and statistical analyses attempt to forecast game outcomes and create perfect brackets, offering an interesting way to engage with the tournament. While these tools can enhance understanding of the games by providing deeper insights, they also risk detracting from the unpredictability that makes March Madness exciting. The thrill of the tournament comes from its surprises—unexpected upsets, buzzer-beaters, and Cinderella stories. AI predictions, while impressive, may take away some of the raw excitement by reducing the sense of randomness and chance that fuels the event’s allure.
+
+Social media platforms and streaming services have revolutionized fan engagement, shifting the traditional viewing experience. With real-time updates, live commentary, and fan reactions shared instantly on platforms like Twitter or Instagram, fans can interact with the games in new, dynamic ways. Streaming services have made it easier to access every game from anywhere, eliminating the need for cable and allowing fans to follow the tournament on their terms. This increased access and interactivity can enhance a fan’s connection to the tournament, creating a more personal and immediate experience, but it also shifts the focus from the collective experience of watching games with friends or family to more individual and digital connections.
+
+
 # March 17, 2025
 ### Journal Prompt
 Over spring break, I used technology mostly for entertainment and communication. I spent a lot of time on my phone, using social media apps to stay in touch with friends and see what everyone was up to. I also played video games, both online and offline, which helped me relax and have fun. Streaming services were another big part of my break—I watched shows and videos to pass the time. Technology made it easy to stay connected and entertained without having to go anywhere.
