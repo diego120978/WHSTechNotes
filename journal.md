@@ -1,4 +1,12 @@
-# March 34, 2025
+# March 31, 2025
+### Journal Prompt
+I’m feeling a little stressed but also ready to finish the year. School has been busy, and STAAR testing adds pressure.
+The most stressful part has been keeping up with everything—homework, tests, and studying.
+To take care of myself, I try to get enough sleep and take breaks when I need them.
+My goal is to do well on my exams. I’ll stay motivated by reminding myself why it matters.
+I can talk to when I feel overwhelmed because they listen and support me.
+
+# March 24, 2025
 ### Journal Prompt
 The integration of advanced technologies into March Madness has significantly altered how fans experience the tournament. AI-driven predictions and statistical analyses attempt to forecast game outcomes and create perfect brackets, offering an interesting way to engage with the tournament. While these tools can enhance understanding of the games by providing deeper insights, they also risk detracting from the unpredictability that makes March Madness exciting. The thrill of the tournament comes from its surprises—unexpected upsets, buzzer-beaters, and Cinderella stories. AI predictions, while impressive, may take away some of the raw excitement by reducing the sense of randomness and chance that fuels the event’s allure.
 
