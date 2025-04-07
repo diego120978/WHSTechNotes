@@ -1,3 +1,8 @@
+# April 7, 2025
+### Journal Prompt
+AI tools like ChatGPT or Khanmigo could really help me study for the STAAR by giving quick explanations, answering questions, and even quizzing me on what I need to know. Instead of flipping through a textbook or watching long videos, I could ask a specific question and get an instant answer. AI could also help me find patterns in what I get wrong and focus on improving those areas. That would save time and make studying more efficient.
+
+The most useful feature of an AI tutor for me would be personalized quizzes or practice problems based on what I struggle with. If the AI can track my progress and adjust to my level, I’d be more likely to use it. Honestly, I think I would use it—especially if I’m short on time or feeling stuck. Sometimes it’s easier to ask an AI a question than wait for a teacher or look through notes.
 # March 31, 2025
 ### Journal Prompt
 I’m feeling a little stressed but also ready to finish the year. School has been busy, and STAAR testing adds pressure.
