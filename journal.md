@@ -1,3 +1,10 @@
+# April 14, 2025
+### Journal Prompt
+I believe the bans on student cell phone use and social media access can be beneficial in some ways, but they also come with serious drawbacks. On the positive side, removing phones from the classroom reduces distractions, which can lead to better focus and academic performance. It might also help reduce issues like cyberbullying and social pressure during school hours. However, completely restricting access takes away an important communication tool, especially during emergencies. It also limits students' ability to use phones for educational purposes, like researching or organizing schoolwork.
+
+If these policies were implemented at my school, I’d probably be frustrated at first, especially if I rely on my phone during breaks or for quick communication. But I might also find it easier to stay focused in class without the constant urge to check notifications. Safety would be a concern though—students and parents often depend on phones for updates during emergencies or changes in plans. A more balanced policy, like allowing phone use during lunch or in between classes, could be a better solution than a full-day ban.
+
+
 # April 7, 2025
 ### Journal Prompt
 AI tools like ChatGPT or Khanmigo could really help me study for the STAAR by giving quick explanations, answering questions, and even quizzing me on what I need to know. Instead of flipping through a textbook or watching long videos, I could ask a specific question and get an instant answer. AI could also help me find patterns in what I get wrong and focus on improving those areas. That would save time and make studying more efficient.
