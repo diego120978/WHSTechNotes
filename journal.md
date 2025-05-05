@@ -1,3 +1,13 @@
+# May 5, 2025
+### Journal Prompt
+Claim: I don’t think 100 unarmed people could beat a silverback gorilla.
+Evidence: Gorillas are super strong—about 10 times stronger than a human—and they’re fast and aggressive. People would panic and couldn’t all attack at once.
+Reasoning: This shows that numbers don’t always win, especially against wild animals. People often forget how powerful nature really is.
+
+Claim: Making this idea go viral isn’t very responsible.
+Evidence: Some people might take it seriously or think hurting animals is okay.
+Reasoning: It shows how online trends can spread fast, even if they send the wrong message. Entertainment can teach—but it can also confuse.
+
 # April 14, 2025
 ### Journal Prompt
 I believe the bans on student cell phone use and social media access can be beneficial in some ways, but they also come with serious drawbacks. On the positive side, removing phones from the classroom reduces distractions, which can lead to better focus and academic performance. It might also help reduce issues like cyberbullying and social pressure during school hours. However, completely restricting access takes away an important communication tool, especially during emergencies. It also limits students' ability to use phones for educational purposes, like researching or organizing schoolwork.
