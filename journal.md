@@ -1,3 +1,9 @@
+# May 14, 2025
+### Journal Prompt
+The “Chromebook Challenge” is clearly unethical and dangerous. Inserting objects like pencils into USB ports can permanently damage the device, start electrical fires, and put both people and property at serious risk. This behavior is not only irresponsible but also violates school rules and technology agreements. From what we've learned in class, technology should be used to learn, create, and communicate—not to harm or destroy. As digital citizens and future tech professionals, we are expected to use technology wisely and safely.
+
+Responsible tech use means understanding how devices work and respecting their limits. When someone says the challenge is “just a joke,” it’s important to explain the real-world consequences: damaged school property, safety hazards, and even legal or disciplinary action. School Chromebooks are shared tools meant to support education, and damaging them wastes school resources and affects others. Practicing safe tech habits shows maturity and helps build trust for more access and freedom in using technology both now and in future careers.
+
 # May 5, 2025
 ### Journal Prompt
 Claim: I don’t think 100 unarmed people could beat a silverback gorilla.
