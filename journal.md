@@ -1,3 +1,6 @@
+# May 19, 2025
+### Journal Prompt
+yes i am ready for the summer to start 
 # May 14, 2025
 ### Journal Prompt
 The “Chromebook Challenge” is clearly unethical and dangerous. Inserting objects like pencils into USB ports can permanently damage the device, start electrical fires, and put both people and property at serious risk. This behavior is not only irresponsible but also violates school rules and technology agreements. From what we've learned in class, technology should be used to learn, create, and communicate—not to harm or destroy. As digital citizens and future tech professionals, we are expected to use technology wisely and safely.
